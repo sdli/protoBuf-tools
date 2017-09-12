@@ -1,0 +1,29 @@
+{
+  "name": "protobuf-tools",
+  "version": "1.0.3",
+  "description": "A tool easy to be used as protoBuf requests for nodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdli/protoBuf-tools.git"
+  },
+  "keywords": [
+    "protobuf",
+    "node",
+    "nodejs",
+    "javascript",
+    "promise"
+  ],
+  "author": "steven leo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdli/protoBuf-tools/issues"
+  },
+  "homepage": "https://github.com/sdli/protoBuf-tools#readme",
+  "dependencies": {
+    "protobufjs": "^6.8.0"
+  }
+}
